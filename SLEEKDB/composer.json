@@ -1,0 +1,19 @@
+{
+    "name": "denis/sleekdb",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis\\Sleekdb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis Lesnikov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "rakibtg/sleekdb": "^2.15"
+    }
+}
